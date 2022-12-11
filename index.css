@@ -1,0 +1,13 @@
+input{
+    padding: 12px;
+    margin: 12px;
+}
+
+#flex{
+    display: flex;
+    align-items: center;
+}
+
+#right{
+    flex-basis: 500px;
+}
